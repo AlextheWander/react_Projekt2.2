@@ -1,6 +1,7 @@
 # 3/3/22
 - Git commands/commit push -m etc
-- Opsætning af App, assetes, components samt HTML CSS JS JSX
+- Opsætning af App, assetes, samt HTML CSS JS JSX
+- Hvad er en Components
 - Npm commands i Create react app 
 - import/render javascript 
 
