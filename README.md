@@ -1,4 +1,4 @@
-# 3/3/22
+## 3/3/22
 - Git commands/commit push -m etc
 - Opsætning af App, assetes, samt HTML CSS JS JSX
 - Hvad er en Components
@@ -17,4 +17,14 @@
     - Testimonials
     - Contact
     - Footer
+## 5/3/22
+- General Css styles, *, roots, media queries className(class)
+- Header, CTA, a tags, download CV, import af billeder i jsx = <img src={ME} alt="" /> + import from assets
+- Ikoner importeret fra React Icons
+- {/* BEM Block, Element, Modifier methodology 
+   to gain a better understading of the html css connection
+   Block component - btn {}
+   Element that depends upon the block - btn__price {}
+   Modifier that changes the style of the block - btn--orange {} - btn--big {}*/}
+- Tilføjet componenter innerHTML
 
